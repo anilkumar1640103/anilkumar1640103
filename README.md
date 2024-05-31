@@ -1,4 +1,4 @@
-A self-motivated Python Developer with over 4+ years of experience in developing web applications using cutting-edge technologies like Python Django, REST APIs, and more. A quick learner with excellent grasping abilities, proficient in architecture, solution designing, and executing end-to-end software development processes.
+A self-motivated Python Developer with over 6+ years of experience in developing web applications using cutting-edge technologies like Python Django, REST APIs, and more. A quick learner with excellent grasping abilities, proficient in architecture, solution designing, and executing end-to-end software development processes.
 
 Skills & Proficiencies 
     • Python
